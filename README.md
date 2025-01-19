@@ -52,7 +52,7 @@ To experience the interactivity, open the Tableau workbook file:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hacksum/COVID-19-Data-Analysis-and-Visualization.git
+   git clone https://github.com/vsumitwork/COVID-19-Data-Analysis-and-Visualization.git
    ```
 2. Open the SQL file (`Tableau Portfolio Project SQL Queries.sql`) to view and run the queries.
 3. Use the Excel files to view the raw data processed from SQL queries.
@@ -83,5 +83,5 @@ To experience the interactivity, open the Tableau workbook file:
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out via [GitHub](https://github.com/hacksum).
+For any questions or suggestions, feel free to reach out via [GitHub](https://github.com/vsumitwork).
 
